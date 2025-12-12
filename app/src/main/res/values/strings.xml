@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foodie</string>
+
+    <!--launch screen-->
+    <string name="launch_app_name">Foodie</string>
+
+    <!--login-->
+    <string name="login_title">Login</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_signup_text">Don\'\t have an account? Sign Up</string>
+    <string name="login_welcome">Welcome Back</string>
+
+    <!--sign up-->
+    <string name="signup_title">Sign Up</string>
+    <string name="signup_name">Name</string>
+    <string name="signup_email">Email</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="signup_login_text">Already have an account? Login</string>
+    <string name="signup_hello_chef">Hello Chef</string>
+
+    <!--Onboard screens-->
+    <string name="onboard_title_1">Discover Recipes</string>
+    <string name="onboard_desc_1">Find the best recipes from around the world.</string>
+    <string name="onboard_title_2">Save Favorites</string>
+    <string name="onboard_desc_2">Save your favorite recipes for quick access.</string>
+    <string name="onboard_title_3">Cook and Share</string>
+    <string name="onboard_desc_3">Cook delicious meals and share them with friends.</string>
+    <string name="onboard_next">Next</string>
+    <string name="onboard_skip">Skip</string>
+    <string name="onboard_start">Get Started</string>
+
+    <!--category screen-->
+    <string name="category_header">Category</string>
+
+    <!--countries-->
+    <string name="country_italy">Italy</string>
+    <string name="country_france">France</string>
+    <string name="country_japan">Japan</string>
+    <string name="country_india">India</string>
+    <string name="country_usa">USA</string>
+
+    <!--food types-->
+    <string name="food_mains">Mains</string>
+    <string name="food_beverages">Beverages</string>
+    <string name="food_desserts">Desserts</string>
+    <string name="food_appetizers">Appetizers</string>
+
+    <!--recipes-->
+    <string name="recipe_sushi">Sushi</string>
+    <string name="recipe_sushi_desc">Traditional Japanese dish made with rice, fish and vegetables.</string>
+
+    <string name="recipe_pizza">Margherita Pizza</string>
+    <string name="recipe_pizza_desc">Classic pizza with fresh tomatoes, mozzarella, and basil leaves.</string>
+
+    <string name="recipe_salad">Caesar Salad</string>
+    <string name="recipe_salad_desc">Fresh romaine lettuce, croutons, parmesan, and Caesar dressing.</string>
+
+    <!--common buttons-->
+    <string name="btn_view_more">View More</string>
+
+    <!-- Favorite-->
+    <string name="favorites_header">Favorites</string>
+    <string name="recipe_carbonara">Spaghetti Carbonara</string>
+    <string name="recipe_carbonara_category">Italian</string>
+    <string name="recipe_lava_cake">Chocolate Lava Cake</string>
+    <string name="recipe_lava_cake_category">Dessert</string>
+    <string name="search_placeholder">Search recipes...</string>
+    <string name="recipe_carbonara_desc">A classic Italian pasta made with eggs, cheese, pancetta, and pepper.</string>
+
+    <!--profile-->
+    <string name="profile_title">Profile</string>
+    <string name="profile_email">sachintha@gmail.com</string>
+    <string name="profile_achievements">Achievements</string>
+    <string name="profile_recipes_cooked">15</string>
+    <string name="profile_favourite_recipes">2</string>
+    <string name="profile_countries_explored">3</string>
+    <string name="profile_hours_cooking">14H 45min</string>
+    <string name="profile_progress">Master Chef Progress</string>
+    <string name="profile_logout">Logout</string>
+
+    <!-- Recipe Info -->
+    <string name="recipe_time">Time: 30 min</string>
+    <string name="recipe_difficulty">Difficulty: Medium</string>
+    <string name="recipe_rating">Rating: 4.5 ★</string>
+
+    <!-- Ingredients Title -->
+    <string name="recipe_ingredients">Ingredients</string>
+
+    <!-- Ingredients List -->
+    <string name="ingredient_rice">• Sushi Rice</string>
+    <string name="ingredient_salmon">• Fresh Salmon</string>
+    <string name="ingredient_nori">• Nori Sheets</string>
+    <string name="ingredient_avocado">• Avocado</string>
+    <string name="ingredient_soy">• Soy Sauce</string>
+    <string name="ingredient_wasabi">• Wasabi</string>
+
+    <!-- Instructions Title -->
+    <string name="recipe_instructions">Instructions</string>
+
+    <!-- Instructions List -->
+    <string name="instruction_1">1. Cook the sushi rice according to the package instructions.</string>
+    <string name="instruction_2">2. Slice the salmon and avocado into thin strips.</string>
+    <string name="instruction_3">3. Place a nori sheet on a bamboo mat, spread rice evenly on top.</string>
+    <string name="instruction_4">4. Arrange salmon and avocado over the rice and roll tightly.</string>
+    <string name="instruction_5">5. Slice the roll into bite-sized pieces and serve with soy sauce.</string>
+    <string name="instruction_6">6. Add wasabi and pickled ginger as desired.</string>
+
+    <string name="back">Back</string>
+    <string name="start_cooking">Start Cooking</string>
+
+
+</resources>
